@@ -4,7 +4,7 @@
 "BodyTube_OD"= 120mm
 "PayLoadBay_ID"= 164mm
 "PayLoadBay_OD"= 170mm
-"ParachuteBay_Pitch"= 300mm
+"ParachuteBay_Pitch"= 400mm
 "ElectronicsTray_PitchDist"= 50mm
 "ElectronicsTray_Height"= 140mm
 "MotorDia"= 98mm
